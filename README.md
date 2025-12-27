@@ -1,80 +1,51 @@
-# Hi 👋, I'm Sankalp Sachan
+<h1 align="center">Hi there, I'm Sankalp 👋</h1>
 
-🎓 A passionate learner focused on **Data Structures & Algorithms**, **problem solving**, and **software development**.  
-I enjoy writing clean, efficient code and continuously improving my fundamentals through consistent practice.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB+%7C+TailwindCSS;Lifelong+Learner+%F0%9F%93%9A;Contributor+at+GSSoC+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Solving **DSA problems** on LeetCode & Code360  
-- 🧠 Strong focus on **revision & core fundamentals**
-- 🔍 Interested in **software engineering & backend development**
-- 📈 Believer in **consistency over shortcuts**
-- 🌱 Currently improving **C++ problem-solving & interview readiness**
+- 💻 I'm a passionate **Full Stack Developer**
+- 🌱 Currently contributing to **GirlScript Summer of Code (GSSoC)** 🔥
+- 📚 Learning **Advanced React, Redux Toolkit & Clean Architecture**
+- 🚀 Exploring AI, ML & Backend Scalability
+- ✨ Love building UI-rich apps and solving real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++
-- **Core Skills:**  
-  - Data Structures & Algorithms  
-  - Problem Solving  
-  - Time & Space Optimization  
-- **Tools & Platforms:**  
-  - Git & GitHub  
-  - LeetCode  
-  - Code360 (Coding Ninjas / Naukri)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,python,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📌 DSA Topics Practiced
 
-- Arrays & Strings  
-- Searching & Sorting  
-- Two Pointers  
-- Sliding Window  
-- Bit Manipulation  
-- Brute Force → Optimized Approaches  
-- Edge Case Handling  
+<p align="center">
+
+ </p>
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankalpsachan2007/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:sankalpsachan2007@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://github.com/sankalp-sachan"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+</p>
 
 ---
 
-## ✅ Problem-Solving Highlights
+## 💡 Quote I Live By
 
-### 🔹 LeetCode
-- Power of Two  
-- Peak Index in a Mountain Array  
-- String Compression  
-- Permutation in String  
-- Remove All Adjacent Duplicates  
-- Remove All Occurrences of a Substring  
-
-### 🔹 Code360
-- Pair Sum (DSA revision)
-
-All solutions are written with **clarity, correctness, and interview perspective**.
+> "First solve the problem, then write the code." – John Johnson
 
 ---
 
-## 📊 Learning Philosophy
-
-> *“Consistency builds confidence.”*
-
-I focus on:
-- Revising fundamentals regularly  
-- Writing readable and optimized code  
-- Learning from mistakes and improving step by step  
-
----
-
-## 🤝 Let’s Connect
-
-- 💬 Open to discussions on DSA & problem-solving
-- 🤝 Happy to collaborate and learn together
-- ⭐ Feel free to explore my repositories
-
----
-
-### ⭐ If you like my work, consider giving a star — it really helps!
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishchalSachan&label=Profile%20Views&color=0e75b6&style=flat" alt="NishchalSachan" />
+</p> -->
