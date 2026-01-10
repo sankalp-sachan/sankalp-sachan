@@ -9,9 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 💻 I'm a passionate **Full Stack Developer**
-- 🌱 Currently contributing to **GirlScript Summer of Code (GSSoC)** 🔥
 - 📚 Learning **Advanced React, Redux Toolkit & Clean Architecture**
-- 🚀 Exploring AI, ML & Backend Scalability
 - ✨ Love building UI-rich apps and solving real-world problems
 
 ---
